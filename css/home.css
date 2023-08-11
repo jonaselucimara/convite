@@ -243,3 +243,53 @@ width: 100%;
 .hotel{
     padding-bottom: 50px!important;
 }
+
+
+
+.paletas{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 50px;
+   
+
+}
+
+.paletas span{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+    
+}
+
+
+.paleta-1{
+    background-color: #B4BEB3;
+}
+.paleta-2{
+    background-color: #AEBBA2;
+}
+
+.paleta-3{
+    background-color: #99B4A3;
+}
+
+.paleta-4{
+    background-color: #95B198;
+}
+.paleta-5{
+    background-color: #62A08B;
+}
+
+
+h2.vestimenta-convidados{
+
+    padding-top: 40px;
+}
+
+.esporte-fino{
+    color: #1D949C;
+    font-weight: bolder;
+    padding-bottom: 5px;
+}
